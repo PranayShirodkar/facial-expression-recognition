@@ -1,2 +1,2 @@
 # facial-expression-recognition
-Using Keras and CNNs to build and train a facial expression recognizer
+[Using Keras and CNNs to build and train a facial expression recognizer](https://github.com/PranayShirodkar/facial-expression-recognition/blob/master/Facial_Expression_Training.ipynb)
